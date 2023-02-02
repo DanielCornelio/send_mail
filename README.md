@@ -66,7 +66,6 @@ Ejecutar Script
 
 ## Variables de Entorno
 
-To run this project, you will need to add the following environment variables to your .env file
 Para ejecutar este proyecto, necesitaras añadir las siguientes variables a tu archivo .env
 
 `HOST`
