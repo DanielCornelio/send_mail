@@ -1,0 +1,20 @@
+{
+  "name": "send_mail",
+  "version": "1.0.0",
+  "description": "send mail by smtp server",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielCornelio/send_mail.git"
+  },
+  "author": "Daniel Cornelio",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.1"
+  }
+}
