@@ -61,7 +61,7 @@ Configurar Información para enviar el mail
 Ejecutar Script
 
 ```bash
-  node index.js
+  npm start
 ```
 
 ## Variables de Entorno
