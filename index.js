@@ -13,8 +13,8 @@ const transporter = nodemailer.createTransport({
 transporter.verify().then(console.log).catch(console.error);
 transporter.sendMail(
     {
-        from: "cvcovid@salud.gob.mx",
-        to: "luis.ortiz@salud.gob.mx",
+        from: "",
+        to: "",
         subject: "asunto del correo electrónico",
         text: "texto plano del correo",
         html: "<h1>Esto es una prueba.</h1>"
